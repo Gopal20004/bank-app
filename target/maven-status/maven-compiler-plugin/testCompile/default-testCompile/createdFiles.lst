@@ -1,0 +1,5 @@
+com\bankapp\security\JwtUtilTest.class
+com\bankapp\service\impl\TransactionServiceImplTest.class
+com\bankapp\service\impl\UserServiceImplTest.class
+com\bankapp\service\impl\AuthServiceImplTest.class
+com\bankapp\BankAppTestConfig.class
